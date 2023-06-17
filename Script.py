@@ -14,7 +14,7 @@ class script(object):
 
 <b>DEVS:</b>
 - 𝙳𝚎𝚟 1<a href=https://t.me/KumarValimaiOfcl>DEAD MAN𝚃𝙶</a>
-- 𝙳𝚎𝚟 2<a href=https://t.me/CineSandhadhi>CINE</a>"""
+- 𝙳𝚎𝚟 2<a href=https://t.me/cinesandhadhii>CINE</a>"""
 
     FILE_TXT = """➤ 𝐇𝐞𝐥𝐩: 𝐅𝐢𝐥𝐞 𝐒𝐭𝐨𝐫𝐞 𝐌𝐨𝐝𝐮𝐥𝐞../
 
@@ -28,9 +28,9 @@ class script(object):
 
 ⪼ 𝐄𝐱𝐚𝐦𝐩𝐥𝐞 ›
 
-<code>/batch https://t.me/CineSandhadhi https://t.me/CineSandhadhi</code>
+<code>/batch https://t.me/cinesandhadhii https://t.me/cinesandhadhii</code>
 
-𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ›› <a href=https://t.me/CineSandhadhi><b>CINE</b></a>"""
+𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ›› <a href=https://t.me/cinesandhadhii><b>CINE</b></a>"""
     
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
@@ -188,7 +188,7 @@ By @{} """
 
 ➪ 𝖩𝗎𝗌𝗍 𝗌𝖾𝗇𝖽 𝗆𝖾 𝖺 𝗂𝗆𝖺𝗀𝖾 𝗍𝗈 𝖾𝖽𝗂𝗍 ✨
 
-𝖬𝖺𝖽𝖾 𝖻𝗒 <a href=https://t.me/CineSandhadhi>CINE</a>"""
+𝖬𝖺𝖽𝖾 𝖻𝗒 <a href=https://t.me/cinesandhadhii>CINE</a>"""
 
     RESTRIC_TXT = """➤ 𝐇𝐞𝐥𝐩: Mᴜᴛᴇ 🚫
 
